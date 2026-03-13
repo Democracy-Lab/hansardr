@@ -5,7 +5,7 @@
 \alias{debate_metadata_1800}
 \title{The 19th-century British Parliamentary debates metadata for the decade 1800}
 \format{
-An object of class \code{grouped_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 10 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 82306 rows and 3 columns.
 }
 \source{
 \\href{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCYJH8}{Harvard Dataverse}
