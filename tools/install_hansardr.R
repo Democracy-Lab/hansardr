@@ -14,4 +14,4 @@ Sys.setenv(CURL_TIMEOUT = "1800")
 remotes::install_github(
   "Democracy-Lab/hansardr",
   dependencies = TRUE,
-  upgrade = "never")
+  upgrade = "always")
